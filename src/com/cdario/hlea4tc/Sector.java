@@ -18,7 +18,7 @@ public class Sector extends Agent {
     public int activeIntersection;
     ACLMessage message;
     SectorGUI sectorGUI;
-
+ 
     @Override
     protected void setup() {
 
