@@ -38,7 +38,7 @@ public class Sector extends Agent {
         sectorGUI = new SectorGUI();
         addBehaviour(new SectorStatus());
         sectorGUI.setVisible(true);
-    }
+    } 
 
     @Override
     protected void takeDown() {
