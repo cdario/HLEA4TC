@@ -1,4 +1,6 @@
 HLEA4TC
 =======
 
-Framework for HRL
+JADE-based Framework for Hierarchical RL
+
+Get JADE at http://jade.tilab.com/
